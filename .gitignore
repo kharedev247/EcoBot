@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 **.zip
+config.py
 
 # C extensions
 *.so
